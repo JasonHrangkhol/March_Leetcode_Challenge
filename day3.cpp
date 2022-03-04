@@ -23,6 +23,6 @@ public:
                 ans=ans+(end-start-1);
         }
         return ans;
-        
+   
     }
 };
